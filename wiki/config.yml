@@ -1,7 +1,0 @@
-ssl:
-  enabled: true
-  port: 3443
-  provider: letsencrypt
-
-  domain: wiki.antixenoinitiative.com
-  subscriberEmail: marcus@ingrams.cloud
